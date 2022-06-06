@@ -24,7 +24,7 @@ content:
   archive:
     enable: false
 design:
-  columns: '2'
+  columns: '1'
   # view: card
   view: compact
   flip_alt_rows: true
