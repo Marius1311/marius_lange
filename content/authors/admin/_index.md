@@ -12,6 +12,16 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=QrhWUR4AAAAJ
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/marius-lange-icb/
+    icon_pack: fab
+    icon: linkedin
+  - display:
+      header: false
+    link: https://orcid.org/ 0000-0002-4846-1266
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: "Munich Center for Machine Learning "
     url: https://mcml.ai/
