@@ -6,7 +6,7 @@ summary: ""
 draft: false
 featured: true
 authors:
-  - MariusLange
+  - Marius Lange
 lastmod: 2020-12-13T00:00:00Z
 tags:
   - Talk
@@ -21,4 +21,4 @@ image:
   preview_only: false
   filename: featured.png
 ---
-I'm excited to give a talk on CellRank and recent extensions featured in CellRank2 on **June 14th at 10am ET** in the Einstein-Montefiore Omics Club of Albert Einstein College of Medicine in New York. Register on [eventbrite](https://www.eventbrite.com/e/omics-club-seminar-marius-lange-registration-354805040427). 
+I'm excited to give a talk on CellRank and recent extensions featured in CellRank2 on **June 14th at 10am ET** in the Einstein-Montefiore Omics Club of Albert Einstein College of Medicine in New York. Register on [eventbrite](https://www.eventbrite.com/e/omics-club-seminar-marius-lange-registration-354805040427).
