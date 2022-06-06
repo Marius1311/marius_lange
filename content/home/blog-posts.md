@@ -6,7 +6,7 @@ widget: pages
 headless: true
 active: true
 weight: 20
-title: 'Blog'
+title: 'News'
 subtitle: ''
 content:
   offset: 0
@@ -19,10 +19,12 @@ content:
     publication_type: ''
     author: ''
     exclude_featured: false
+  # choose how many posts to display
+  count: 5
   archive:
     enable: false
 design:
-  columns: '1'
+  columns: '2'
   # view: card
   view: compact
   flip_alt_rows: true
