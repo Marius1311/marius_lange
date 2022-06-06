@@ -3,7 +3,7 @@ title: Marius Lange
 role: Postdoctoral researcher
 avatar_filename: avatar.jpg
 bio: "Interested in single-cell genomics and machine learning. "
-interests: [machine learning, single-cell genomics]
+interests: [Machine learning, Single-cell genomics, Probabilistic modeling]
 social:
   - icon: envelope
     icon_pack: fas
@@ -48,6 +48,6 @@ education:
 email: marius.lange@helmholtz-muenchen.de
 superuser: true
 status:
-  icon: ☕️
+  icon: 
 ---
 I'm about to finish my Ph.D. in computational biology in the group of Fabian Theis at Helmholtz Munich/the Technical university of Munich. My research focuses on dynamical biological processes at the level of single cells.
