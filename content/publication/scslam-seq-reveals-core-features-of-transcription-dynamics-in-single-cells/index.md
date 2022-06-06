@@ -46,6 +46,9 @@ tags:
   - Trajectory inference
 image:
   filename: featured
+  caption: "scSLAM-seq and GRAND-SLAM differentiate new from total RNA in
+  single-cell studies. This provides an experimental alternative to RNA
+  velocity. "
   focal_point: Smart
   preview_only: false
 date: 2022-06-06T15:46:10.280Z
