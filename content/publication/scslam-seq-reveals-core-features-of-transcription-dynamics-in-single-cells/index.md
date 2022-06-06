@@ -14,7 +14,7 @@ authors:
   - A.-E. Saliba
   - L. Dölken
 doi: https://doi.org/10.1038/s41586-019-1369-y
-publication: https://www.nature.com/articles/s41586-019-1369-y
+publication: Nature
 publication_short: Nature
 abstract: Single-cell RNA sequencing (scRNA-seq) has highlighted the important
   role of intercellular heterogeneity in phenotype variability in both health

@@ -9,8 +9,8 @@ authors:
   - F Alexander Wolf
   - Fabian J Theis
 doi: https://doi.org/10.1038/s41587-020-0591-3
-publication: https://www.nature.com/articles/s41587-020-0591-3
-publication_short: Nature Biotechnology
+publication: Nature Biotechnology
+publication_short: Nat. Biotech.
 abstract: RNA velocity has opened up new ways of studying cellular
   differentiation in single-cell RNA-sequencing data. It describes the rate of
   gene expression change for an individual gene at a given time point based on

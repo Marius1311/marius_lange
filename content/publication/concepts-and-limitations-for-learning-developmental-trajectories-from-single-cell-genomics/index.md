@@ -12,7 +12,7 @@ authors:
   - Heiko Lickert
   - Fabian J Theis
 doi: https://doi.org/10.1242/dev.170506
-publication: https://journals.biologists.com/dev/article/146/12/dev170506/19458/Concepts-and-limitations-for-learning
+publication: Development
 publication_short: Development
 abstract: Single cell genomics has become a popular approach to uncover the
   cellular heterogeneity of progenitor and terminally differentiated cell types

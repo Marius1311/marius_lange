@@ -32,8 +32,8 @@ authors:
   - Fabian J Theis
   - Herbert B Schiller
 doi: https://doi.org/10.1038/s41467-020-17358-3
-publication: https://www.nature.com/articles/s41467-020-17358-3
-publication_short: Nature Communications
+publication: Nature Communications
+publication_short: Nat. Comm.
 abstract: Alveolar regeneration through a Krt8+ transitional stem cell state
   that persists in human lung fibrosis
 draft: false

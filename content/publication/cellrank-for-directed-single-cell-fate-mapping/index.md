@@ -16,8 +16,8 @@ authors:
   - Dana Pe’er
   - Fabian J Theis
 doi: https://doi.org/10.1038/s41592-021-01346-6
-publication: https://www.nature.com/articles/s41592-021-01346-6
-publication_short: Nature Methods
+publication: Nature Methods
+publication_short: Nat. Meth.
 abstract: Computational trajectory inference enables the reconstruction of cell
   state dynamics from single-cell RNA sequencing experiments. However,
   trajectory inference requires that the direction of a biological process is
