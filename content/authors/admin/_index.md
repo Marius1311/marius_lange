@@ -2,7 +2,8 @@
 title: Marius Lange
 role: Postdoctoral researcher
 avatar_filename: avatar.jpg
-bio: "My research interests include single-cell genomics and machine learning. "
+bio: "Interested in single-cell genomics and machine learning. "
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,6 +32,20 @@ social:
 organizations:
   - name: "Munich Center for Machine Learning "
     url: https://mcml.ai/
+  - name: Computational Health Department @ Helmholtz Munich
+    url: https://www.helmholtz-munich.de/icb/index.html
+education:
+  courses:
+    - course: BSc in Physics
+      institution: University of Freiburg
+      year: 2016
+    - course: MSc in Applied Mathematics
+      institution: University of Oxford
+      year: 2017
+    - course: PhD in Computational Biology
+      institution: Technical University of Munich
+      year: 2022
+email: marius.lange@helmholtz-muenchen.de
 superuser: true
 status:
   icon: ☕️
