@@ -39,8 +39,13 @@ draft: false
 featured: true
 tags:
   - CellRank
+  - Fate mapping
+  - Markov chains
+  - RNA velocity
+  - Trajectory inference
+  - scRNA-seq
 image:
-  filename: ml_2021-09-19_mf_1.001.jpeg
+  filename: featured.jpeg
   focal_point: Smart
   preview_only: false
   caption: "CellRank uses both RNA velocity and transcriptomic similarity to infer
