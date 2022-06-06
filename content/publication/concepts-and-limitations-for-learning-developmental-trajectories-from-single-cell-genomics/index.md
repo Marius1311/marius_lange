@@ -35,6 +35,8 @@ draft: false
 featured: false
 tags:
   - Review
+  - Trajectory inference
+  - Dynamical processes
 image:
   filename: featured
   caption: "Trajectory inference enables the study of dynamical biological

@@ -41,6 +41,9 @@ draft: false
 featured: false
 tags:
   - scSLAM-seq
+  - Metabolic labelling
+  - Dynamics
+  - Trajectory inference
 image:
   filename: featured
   focal_point: Smart

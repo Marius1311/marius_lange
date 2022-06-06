@@ -29,6 +29,11 @@ abstract: RNA velocity has opened up new ways of studying cellular
   and gene regulation.
 draft: false
 featured: true
+tags:
+  - RNA velocity
+  - scVelo
+  - Trajectory inference
+  - Dynamical processes
 image:
   filename: featured
   focal_point: Smart

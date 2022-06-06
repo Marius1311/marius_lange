@@ -17,6 +17,8 @@ draft: false
 featured: false
 tags:
   - Optimization
+  - Complexity theory
+  - Cubic regularization
 image:
   filename: featured
   focal_point: Smart
