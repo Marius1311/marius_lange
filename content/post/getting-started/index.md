@@ -6,7 +6,7 @@ summary: ""
 draft: false
 featured: true
 authors:
-  - Marius Lange
+  - Marius
 lastmod: 2020-12-13T00:00:00Z
 tags:
   - Talk
