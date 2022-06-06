@@ -37,6 +37,8 @@ tags:
   - Review
 image:
   filename: featured
+  caption: "Trajectory inference enables the study of dynamical biological
+  processes from cross-sectional snapshot data."
   focal_point: Smart
   preview_only: false
 date: 2022-06-06T15:43:57.500Z

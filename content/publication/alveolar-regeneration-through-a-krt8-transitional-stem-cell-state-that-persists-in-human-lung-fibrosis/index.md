@@ -40,8 +40,14 @@ draft: false
 featured: false
 tags:
   - Lung
+  - Regeneration
+  - Airway cells
+  - Time course
+  - scRNA-seq
 image:
   filename: featured
+  caption: "UMAP of airway and alveolar cells undergoing regeneration past
+  bleomycin injury"
   focal_point: Smart
   preview_only: false
 date: 2022-06-06T15:41:54.480Z
