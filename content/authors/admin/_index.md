@@ -22,6 +22,11 @@ social:
     link: https://orcid.org/0000-0002-4846-1266
     icon_pack: ai
     icon: orcid
+  - display:
+      header: false
+    link: https://github.com/Marius1311
+    icon_pack: fab
+    icon: github
 organizations:
   - name: "Munich Center for Machine Learning "
     url: https://mcml.ai/
