@@ -50,5 +50,5 @@ image:
   bleomycin injury"
   focal_point: Smart
   preview_only: false
-date: 2022-06-06T15:41:54.480Z
+date: 2020
 ---
