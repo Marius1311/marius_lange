@@ -19,7 +19,7 @@ social:
     icon: linkedin
   - display:
       header: false
-    link: https://orcid.org/ 0000-0002-4846-1266
+    link: https://orcid.org/0000-0002-4846-1266
     icon_pack: ai
     icon: orcid
 organizations:
