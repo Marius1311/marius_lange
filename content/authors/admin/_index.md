@@ -1,6 +1,7 @@
 ---
 title: Marius Lange
 role: Postdoctoral researcher
+avatar_filename: avatar.jpg
 bio: "My research interests include single-cell genomics and machine learning. "
 social:
   - icon: envelope
