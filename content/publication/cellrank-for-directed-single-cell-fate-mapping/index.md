@@ -43,5 +43,7 @@ image:
   filename: ml_2021-09-19_mf_1.001.jpeg
   focal_point: Smart
   preview_only: false
+  caption: "CellRank uses both RNA velocity and transcriptomic similarity to infer
+    directed cellular trajectories beyond normal development. "
 date: 2022-06-06T14:56:54.782Z
 ---
