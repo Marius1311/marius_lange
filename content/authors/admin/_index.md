@@ -32,19 +32,19 @@ social:
 organizations:
   - name: "Munich Center for Machine Learning "
     url: https://mcml.ai/
-  - name: Computational Health Department @ Helmholtz Munich
+  - name: Computational Health Department
     url: https://www.helmholtz-munich.de/icb/index.html
 education:
   courses:
-    - course: BSc in Physics
-      institution: University of Freiburg
-      year: 2016
-    - course: MSc in Applied Mathematics
-      institution: University of Oxford
-      year: 2017
     - course: PhD in Computational Biology
       institution: Technical University of Munich
       year: 2022
+    - course: MSc in Applied Mathematics
+      institution: University of Oxford
+      year: 2017
+    - course: BSc in Physics
+      institution: University of Freiburg
+      year: 2016
 email: marius.lange@helmholtz-muenchen.de
 superuser: true
 status:
