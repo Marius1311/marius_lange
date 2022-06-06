@@ -51,5 +51,5 @@ image:
   velocity. "
   focal_point: Smart
   preview_only: false
-date: 2022-06-06T15:46:10.280Z
+date: 2019-07-10T15:46:10.280Z
 ---

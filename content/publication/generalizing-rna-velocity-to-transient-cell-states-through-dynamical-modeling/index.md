@@ -40,6 +40,6 @@ image:
   preview_only: false
   caption: "scVelo generalized RNA velocity to transient populations through a
     dynamical model of splicing kinetics. "
-date: 2022-06-06T15:25:00.526Z
+date: 2020-08-03T15:25:00.526Z
 url_code: https://scvelo.readthedocs.io/
 ---

@@ -50,6 +50,6 @@ image:
   preview_only: false
   caption: "CellRank uses both RNA velocity and transcriptomic similarity to infer
     directed cellular trajectories beyond normal development. "
-date: 2022
+date: 2022-01-14T15:43:57.500Z
 url_code: https://cellrank.readthedocs.io/en/stable/
 ---
