@@ -1,6 +1,6 @@
 ---
 title: "Moscot: A scalable toolbox for optimal transport problems in single-cell
-  genomics"
+  genomics (MIA talk)"
 abstract: Numerous problems in single-cell genomics have recently been
   approached using optimal transport (OT), a field of mathematics concerned with
   comparing probability distributions across spaces. These problems include
