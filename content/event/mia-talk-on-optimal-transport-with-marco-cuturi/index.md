@@ -1,12 +1,9 @@
 ---
 title: Moscot: A scalable toolbox for optimal transport problems in single cell genomics
 abstract: >-
+
   Numerous problems in single-cell genomics have recently been approached using optimal transport (OT), a field of mathematics concerned with comparing probability distributions across spaces. These problems include mapping cells across timepoints, perturbations and experimental batches as well as reconstructing spatial structure from gene expression. Despite their successful applications, OT-based solutions face common challenges that hinder their community-wide adaptation including a fractured tools landscape, limited scalability and lacking support for multimodal data. To overcome these challenges, we present multimodal single-cell optimal transport tools (moscot), a Python package which implements OT-based solutions to common problems through a unified API that scales to large, multimodal datasets. In various applications, we demonstrate moscot’s unified API and show how it scales to large datasets. For lineage-traced in-vivo time-series experiments, we present moscot-lineage which maps cells across time points by combining intra-individual lineage relations with inter-individual gene expression similarity. On C.elegans embryonic development, we show how moscot-lineage can be combined with CellRank to predict fate probabilities and putative decision driver genes.
 
-
-  Primer (Marco Cuturi): From matchings to optimal transport, use cases and algorithms
-
-  Seminar (Marius Lange): Moscot: A scalable toolbox for optimal transport problems in single cell genomics
 location: "Broad Institute of Havard and MIT. "
 date: 2022-03-08T15:29:41.652Z
 date_end: 2022-03-02T23:00:00.000Z
