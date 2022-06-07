@@ -30,9 +30,15 @@ authors:
   - admin
 tags:
   - CellRank
+  - ISMB
+  - Trajectory inference
+  - RNA velocity
+  - Fate mapping
 image:
   filename: featured
+  caption: "CellRank uses RNA velocity directly in high dimensions to map the
+  fate of single cells. Watch the recorded talk on [YouTube](https://www.youtube.com/watch?v=tSfeDZGnZto)"
   focal_point: Smart
   preview_only: false
 ---
-Find our paper in [Nature methods](https://www.nature.com/articles/s41592-021-01346-6) and the code on [github](https://cellrank.readthedocs.io/en/stable/). 
+Find our paper in [Nature methods](https://www.nature.com/articles/s41592-021-01346-6) and the code on [github](https://cellrank.readthedocs.io/en/stable/).
