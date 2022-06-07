@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Coralia Cartis
   - Nicholas IM Gould
-  - Marius Lange
+  - admin
 doi: https://doi.org/10.1007/s10543-019-00791-2
 publication: BIT Numerical Mathematics
 publication_short: BIT Num. Maths.

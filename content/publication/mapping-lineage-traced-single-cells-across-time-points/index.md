@@ -3,7 +3,7 @@ title: Mapping lineage-traced single-cells across time-points
 publication_types:
   - "1"
 authors:
-  - Marius Lange
+  - admin
   - Zoe Piran
   - Michal Klein
   - Fabian J. Theis
