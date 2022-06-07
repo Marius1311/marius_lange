@@ -3,16 +3,16 @@ title: scSLAM-seq reveals core features of transcription dynamics in single cell
 publication_types:
   - "2"
 authors:
-  - F. Erhard
-  - M. A. P. Baptista
-  - T. Krammer
-  - T. Hennig
-  - M. Lange
-  - P. Arampatzi
-  - C. S. Jürges
-  - F. J. Theis
-  - A.-E. Saliba
-  - L. Dölken
+  - Florian Erhard
+  - Marisa A. P. Baptista
+  - Tobias Krammer
+  - Thomas Hennig
+  - admin
+  - Panagiota Arampatzi
+  - Christopher S. Jürges
+  - Fabian J. Theis
+  - Antoine-Emmanuel Saliba
+  - Lars Dölken
 doi: https://doi.org/10.1038/s41586-019-1369-y
 publication: Nature
 publication_short: Nature
