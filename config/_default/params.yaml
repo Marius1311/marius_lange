@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Marius Lange's personal homepage. '
+    twitter: 'Marius Lange'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/Marius1311/marius_lange'
     content_dir: content
     branch: main
   avatar:
