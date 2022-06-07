@@ -1,11 +1,10 @@
 ---
 title: MIA Talk on Optimal Transport with Marco Cuturi
-abstract: >-
-  I gave a Models, Inference & Algorithms talk at the Broad Institute jointly
+abstract: I gave a Models, Inference & Algorithms talk at the Broad Institute jointly
   with Marco Cuturi; these talks consist of a primer and a seminar. While the
   primer gives background on the field, the seminar introduced one particular
   project with a focus on methodology. For more information, check out [MIA
-  talks at the Broad](https://www.broadinstitute.org/talks/spring-2022/mia). 
+  talks at the Broad](https://www.broadinstitute.org/talks/spring-2022/mia).
 
 
   Primer (Marco Cuturi): From matchings to optimal transport, use cases and algorithms
