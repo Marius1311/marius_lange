@@ -29,7 +29,7 @@ publishDate: 2022-06-07T14:29:41.663Z
 draft: false
 featured: false
 authors:
-  - MariusLange
+  - Marius Lange
 tags:
   - MIA
 image:
@@ -45,7 +45,3 @@ Marco Cuturi
 Apple; Center for Research in Economics and Statistics, Institut Polytechnique de Paris
 
 I will provide in this primer a self-contained intro to optimal transport, a field at the intersection of maths, economics and machine learning. Motivated by recent applications to single cell genomics, I will start from the original optimal matching problem. Focusing next on the limitations of matchings, both in terms of modeling and computations, I will introduce several extensions and modifications of that original problem: first with the so-called Kantorovich formulation, to the introduction of regularizations that allow to compute, at very large scales, a generalized notion of matching that has practical relevance.
-
-
-
-
