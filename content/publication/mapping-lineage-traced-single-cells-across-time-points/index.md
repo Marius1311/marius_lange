@@ -8,7 +8,6 @@ authors:
   - Michal Klein
   - Fabian J. Theis
   - Mor Nitzan
-doi: https://drive.google.com/file/d/15-S2iKS4l_Okq4WFqJx7L6EJYZz54-Id/view
 publication: NeurIPS LMRL Workshop Contribution
 abstract: Simultaneous profiling of single-cell gene expression and lineage
   history holds enormous potential for studying cellular decision making.
@@ -37,4 +36,5 @@ image:
   caption: "moscot-lineage combines lineage tracing data with gene expression
   to link cells across time points in destructive in-vivo experiments. "
 date: 2021-12-07T13:39:05.603Z
+url_pdf: https://drive.google.com/file/d/15-S2iKS4l_Okq4WFqJx7L6EJYZz54-Id/view
 ---
