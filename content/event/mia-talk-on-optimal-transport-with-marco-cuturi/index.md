@@ -30,12 +30,21 @@ draft: false
 featured: false
 authors:
   - Marius Lange
+  - Marco Cuturi
 tags:
   - MIA
+  - Moscot
+  - moslin
+  - moscot-lineage
+  - Optimal transport
+  - matchings
+  - time course
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  caption: "moscot in a scalable toolbox for optimal transport problems in
+  single-cell genomics. Watch the recorded talk on [YouTube](https://www.youtube.com/watch?v=qo-qvJPm7cY)"
 ---
 This is a Models, Inference & Algorithms (MIA) talk at the Broad Institute jointly with Marco Cuturi; MIA talks consist of a primer and a seminar. While the primer gives background on the field, the seminar introduced one particular project with a focus on methodology. For more information, check out [MIA talks at the Broad](https://www.broadinstitute.org/talks/spring-2022/mia).
 
