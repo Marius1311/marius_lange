@@ -18,8 +18,8 @@ abstract: Computational trajectory inference enables the reconstruction of cell
   lung regeneration, including previously unknown intermediate cell states,
   which we confirm experimentally.
 location: ISMB/ECCB
-date: 2021-11-10T17:00:04.340Z
-date_end: 2021-11-09T23:00:00.000Z
+date: 2021-07-12T16:00:04.340Z
+date_end: 2021-07-11T22:00:00.000Z
 all_day: false
 event: Watch the recording on YouTube
 event_url: https://www.youtube.com/watch?v=tSfeDZGnZto
