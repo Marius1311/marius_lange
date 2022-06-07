@@ -23,7 +23,7 @@ location: "Broad Institute of Havard and MIT. "
 date: 2022-03-08T15:29:41.652Z
 date_end: 2022-03-02T23:00:00.000Z
 all_day: false
-event: MIA Talk with Marco Cuturi
+event: Watch the recording on YouTube
 event_url: https://www.youtube.com/watch?v=qo-qvJPm7cY
 publishDate: 2022-06-07T14:29:41.663Z
 draft: false
