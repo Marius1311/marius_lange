@@ -38,3 +38,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+For more details, see our [extended abstract](https://drive.google.com/file/d/15-S2iKS4l_Okq4WFqJx7L6EJYZz54-Id/view). 
