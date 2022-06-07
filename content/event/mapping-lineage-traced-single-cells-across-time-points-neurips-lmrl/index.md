@@ -23,11 +23,18 @@ publishDate: 2022-06-07T15:35:05.453Z
 draft: false
 featured: false
 authors:
-  - MariusLange
+  - Marius Lange
 tags:
   - moscot-lineage
+  - moslin
+  - Trajectory inference
+  - time course
+  - mapping cells
 image:
   filename: featured
+  caption: "moscot-lineage maps lineage traced cells across time points using
+  both gene expression and barcode information. Watch the recorded talk on
+  [YouTube](https://www.youtube.com/watch?v=7sNPJXc1BoM)"
   focal_point: Smart
   preview_only: false
 ---
