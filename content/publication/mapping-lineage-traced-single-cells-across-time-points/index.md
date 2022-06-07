@@ -3,7 +3,11 @@ title: Mapping lineage-traced single-cells across time-points
 publication_types:
   - "1"
 authors:
-  - Marius
+  - Marius Lange
+  - Zoe Piran
+  - Michal Klein
+  - Fabian J. Theis
+  - Mor Nitzan
 doi: https://drive.google.com/file/d/15-S2iKS4l_Okq4WFqJx7L6EJYZz54-Id/view
 publication: NeurIPS LMRL Workshop Contribution
 abstract: Simultaneous profiling of single-cell gene expression and lineage
@@ -22,10 +26,15 @@ abstract: Simultaneous profiling of single-cell gene expression and lineage
 draft: false
 featured: true
 tags:
-  - Lineage
+  - Lineage tracing
+  - moscot-Lineage
+  - moslin
+  - Trajectory inference
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-06-07T13:39:05.603Z
+  caption: "moscot-lineage combines lineage tracing data with gene expression
+  to link cells across time points in destructive in-vivo experiments. "
+date: 2021-12-07T13:39:05.603Z
 ---
