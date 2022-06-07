@@ -3,7 +3,7 @@ title: CellRank for directed single-cell fate mapping
 publication_types:
   - "2"
 authors:
-  - Marius Lange
+  - admin
   - Volker Bergen
   - Michal Klein
   - Manu Setty
