@@ -23,7 +23,7 @@ publishDate: 2022-06-07T15:35:05.453Z
 draft: false
 featured: false
 authors:
-  - Marius Lange
+  - admin
 tags:
   - moscot-lineage
   - moslin
@@ -38,4 +38,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-For more details, see our [extended abstract](https://drive.google.com/file/d/15-S2iKS4l_Okq4WFqJx7L6EJYZz54-Id/view). 
+For more details, see our [extended abstract](https://drive.google.com/file/d/15-S2iKS4l_Okq4WFqJx7L6EJYZz54-Id/view).

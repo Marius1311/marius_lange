@@ -7,7 +7,7 @@ authors:
   - Sophie Tritschler
   - Maren Büttner
   - David S Fischer
-  - Marius Lange
+  - admin
   - Volker Bergen
   - Heiko Lickert
   - Fabian J Theis

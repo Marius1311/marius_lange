@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Volker Bergen
-  - Marius Lange
+  - admin
   - Stefan Peidli
   - F Alexander Wolf
   - Fabian J Theis

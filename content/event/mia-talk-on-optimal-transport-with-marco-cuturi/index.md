@@ -29,7 +29,7 @@ publishDate: 2022-06-07T14:29:41.663Z
 draft: false
 featured: false
 authors:
-  - Marius Lange
+  - admin
   - Marco Cuturi
 tags:
   - MIA

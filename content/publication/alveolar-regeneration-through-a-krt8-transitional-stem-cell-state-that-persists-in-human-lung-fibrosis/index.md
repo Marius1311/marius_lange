@@ -11,7 +11,7 @@ authors:
   - Ilias Angelidis
   - Christoph H Mayr
   - George Tsidiridis
-  - Marius Lange
+  - admin
   - Laura F Mattner
   - Min Yee
   - Paulina Ogar
