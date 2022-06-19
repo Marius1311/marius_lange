@@ -1,5 +1,5 @@
 ---
-title: CellRank2 @ Statistical Bioinformatics Seminar
+title: CellRank2 @ Sydney Statistical Bioinformatics Seminar
 subtitle: "Philipp Weiler presenting CellRank2"
 date: 2022-06-19T12:57:18.125Z
 summary: ""
