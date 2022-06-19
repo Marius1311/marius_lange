@@ -11,8 +11,11 @@ main:
     url: about/
     weight: 20
   - name: Publications
-    url: publication
+    url: publication/
     weight: 30
   - name: Talks
-    url: event
+    url: event/
     weight: 40
+  - name: Posts / News
+    url: post/
+    weight: 50
