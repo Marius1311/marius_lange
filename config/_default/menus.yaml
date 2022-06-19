@@ -16,6 +16,6 @@ main:
   - name: Talks
     url: event/
     weight: 40
-  - name: Posts / News
+  - name: Posts
     url: post/
     weight: 50
