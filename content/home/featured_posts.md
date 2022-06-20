@@ -20,7 +20,7 @@ content:
     author: ''
     exclude_featured: false
   # choose how many posts to display
-  count: 5
+  count: 2
   archive:
     enable: false
 design:
