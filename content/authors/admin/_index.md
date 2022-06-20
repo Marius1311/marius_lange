@@ -39,6 +39,12 @@ education:
     - course: PhD in Computational Biology
       institution: Technical University of Munich
       year: 2022
+    - course: Visiting Research Fellow @ Nitzan lab
+      institution: The Hebrew University of Jerusalem
+      year: 2021
+    - course: Visiting Research Fellow @ Pe'er lab
+      institution: Memorial Sloan Kettering Cancer Center
+      year: 2019
     - course: MSc in Applied Mathematics
       institution: University of Oxford
       year: 2017
