@@ -18,13 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Hi I am Marius, an applied mathematician working in comp bio.'
+    twitter: 'MariusLange8'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: '-h1NUjgoB5aeb1G7TlBk8Ukbujo052t0D7ADllqHnco'
     baidu: ''
 
 # Site header
