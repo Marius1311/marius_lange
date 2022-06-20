@@ -5,6 +5,8 @@
 resources/
 public/
 assets/jsconfig.json
+.hugo_build.lock
+go.sum
 
 # Mac specifics
 *.DS_Store
