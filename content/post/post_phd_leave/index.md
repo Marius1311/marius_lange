@@ -20,4 +20,4 @@ image:
   preview_only: false
   filename: featured.png
 ---
-Starting August 1st, I'll go on a 3-months partial end-of-PhD leave. I'll reduce my working hours to one day a week; this means it will take me a bit longer to react to emails. Enjoy the summer 😎
+Starting August 1st, I'll go on a 3-months partial end-of-PhD leave. I'll reduce my working hours to one day a week; this means it will take me a bit longer to react to emails. Enjoy the summer!
