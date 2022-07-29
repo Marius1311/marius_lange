@@ -15,6 +15,7 @@ categories:
 projects: []
 image:
   caption:
+  width: 600px
   focal_point: ""
   placement: 2
   preview_only: false
