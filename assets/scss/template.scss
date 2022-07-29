@@ -116,6 +116,7 @@ ul.network-icon .big-icon {
   font-size: 0.8rem;
 }
 
+// Prevent images in posts from being hughe
 .content-card img {
-   max-width: 100%;
+   max-width: 50%;
 }
