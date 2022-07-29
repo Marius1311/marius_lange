@@ -1,7 +1,7 @@
 ---
 title: Partial end-of-PhD leave
 subtitle: "Limited availability Aug 1st - Oct 31st"
-date: 2022-06-19T12:57:18.125Z
+date: 2022-07-29T12:57:18.125Z
 summary: ""
 draft: false
 featured: true
