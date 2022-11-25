@@ -79,6 +79,7 @@ ul.network-icon .big-icon {
   margin-bottom: 1em;
 }
 
+// start experiments
 // Narrower container for Hello World sections (primarily Blank widget content).
 // @media (min-width: 1200px) {
 //   .home-section .container {
@@ -90,6 +91,8 @@ ul.network-icon .big-icon {
 //     max-width: 880px;
 //   }
 // }
+
+// end experiments
 
 // Custom avatar size on homepage
 .avatar {
@@ -118,5 +121,5 @@ ul.network-icon .big-icon {
 
 // Prevent images in posts from being hughe
 .content-card img {
-   max-width: 50%;
+   max-width: 500px;
 }

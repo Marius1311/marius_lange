@@ -13,3 +13,6 @@ main:
   - name: Posts
     url: post/
     weight: 30
+  - name: Thesis
+    url: thesis
+    weight: 40
