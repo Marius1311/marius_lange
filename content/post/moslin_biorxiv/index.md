@@ -22,7 +22,7 @@ image:
 ---
 We've just released moslin, our new computational tool that maps single cells across time points based on lineage and
 gene expression information. To find out more, see the [tweetorial]() or read the full [preprint]() at bioRxiv. If you
-want to try moslin on your own lineage tracing data, check out the [implementation](https://github.com/theislab/moslin) at GibHub and the [tutorial](https://moscot.readthedocs.io/en/latest/notebooks/tutorials/100_lineage.html). Under the hood, moslin is based on [moscot](https://moscot-tools.org) to solve the Fused Gromov-Wasserstein problem of relating both lineage and state across time. This project is a really fun collaboration with Zoe Piran from the [Nitzan lab](https://www.nitzanlab.com/), Bastiaan Spanjaard from the [Junker lab](https://junkerlab.com/) and Michal Klein, formerly [Theislab](https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab), now Apple ML Research in Paris. 
+want to try moslin on your own lineage tracing data, check out the [implementation](https://github.com/theislab/moslin) at GibHub and the [tutorial](https://moscot.readthedocs.io/en/latest/notebooks/tutorials/100_lineage.html). Under the hood, moslin is based on [moscot](https://moscot-tools.org) to solve the Fused Gromov-Wasserstein problem of relating both lineage and state across time. This project is a really fun collaboration with Zoe Piran from the [Nitzan lab](https://www.nitzanlab.com/), Bastiaan Spanjaard from the [Junker lab](https://junkerlab.com/) and Michal Klein, formerly [Theislab](https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab), now Apple ML Research in Paris.
 
 Abstract
 --------
