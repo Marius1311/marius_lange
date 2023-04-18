@@ -1,13 +1,13 @@
 ---
 title: moslin preprint out
 subtitle: Mapping lineage-traced cells across time points with moslin
-date: 2023-04-16T12:57:18.125Z
+date: 2023-04-17T12:57:18.125Z
 summary: ""
 draft: false
 featured: true
 authors:
   - admin
-lastmod: 2023-04-16T12:57:18.125Z
+lastmod: 2023-04-17T12:57:18.125Z
 tags:
   - moslin, lineage-tracing, moscot, mapping, optimal transport, CellRank
 categories:
@@ -21,7 +21,7 @@ image:
   filename: featured.jpg
 ---
 We've just released moslin, our new computational tool that maps single cells across time points based on lineage and
-gene expression information. To find out more, see the [tweetorial]() or read the full [preprint]() at bioRxiv. If you
+gene expression information. To find out more, see the [tweetorial](https://twitter.com/MariusLange8/status/1648002942006337547) or read the full [preprint](https://www.biorxiv.org/content/10.1101/2023.04.14.536867v1) at bioRxiv. If you
 want to try moslin on your own lineage tracing data, check out the [implementation](https://github.com/theislab/moslin) at GibHub and the [tutorial](https://moscot.readthedocs.io/en/latest/notebooks/tutorials/100_lineage.html). Under the hood, moslin is based on [moscot](https://moscot-tools.org) to solve the Fused Gromov-Wasserstein problem of relating both lineage and state across time. This project is a really fun collaboration with Zoe Piran from the [Nitzan lab](https://www.nitzanlab.com/), Bastiaan Spanjaard from the [Junker lab](https://junkerlab.com/) and Michal Klein, formerly [Theislab](https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab), now Apple ML Research in Paris.
 
 Abstract
