@@ -28,7 +28,7 @@ tags:
   - moscot
 image:
   filename: featured
-  caption: "moslin combines gene expression with lineage tracing information to reconstruct complex differentiation trajectories. "
+  caption: "moslin combines gene expression with lineage tracing information to reconstruct complex differentiation trajectories. Figure created with BioRender. "
   focal_point: Smart
   preview_only: false
 date: 2023-04-17T15:46:10.280Z
