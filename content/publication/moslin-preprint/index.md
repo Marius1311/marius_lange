@@ -1,7 +1,7 @@
 ---
 title: Mapping lineage-traced cells across time points with moslin
 publication_types:
-  - "1"
+  - "3"
 authors:
   - Marius Lange
   - Zoe Piran
