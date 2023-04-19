@@ -4,9 +4,12 @@ publication_types:
   - "7"
 authors:
   - Marius Lange
-doi: https://mediatum.ub.tum.de/1656496
-publication: Thesis
-publication_short: Thesis
+url_pdf: https://mediatum.ub.tum.de/download/1656496/1656496.pdf
+links:
+- name: TUM online library
+  url: https://mediatum.ub.tum.de/1656496
+publication: TUM online library
+publication_short: TUM online library
 abstract:
   Cells dynamically change their molecular state in many situations. Single-cell assays allow us to describe this state with unprecedented resolution; however, cells are destroyed upon sequencing, making it difficult to study continuous processes. This difficulty has fueled the development of mathematical methods that use ensembles of cells to reconstruct latent trajectories. In this thesis, we present new approaches for trajectory reconstruction which build on recent experimental innovations.
 draft: false
