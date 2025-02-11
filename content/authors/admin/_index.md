@@ -51,7 +51,7 @@ superuser: true
 status:
   icon:
 ---
-I am an [EMBO postdoctoral fellow](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/) and an associated researcher at ETH's [AI Center](https://ai.ethz.ch/). I am co-supervised by [Barbara Treutlein](https://bsse.ethz.ch/qdb/the-group.html) at ETH Zürich ([Department of Biosystems Science and Engineering](https://bsse.ethz.ch/)) and [Dana Pe'er](https://www.mskcc.org/research/ski/labs/dana-pe-er) at [MSKCC](http://mskcc.org/). 
+I am an [EMBO postdoctoral fellow](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/) and an associated researcher at ETH's [AI Center](https://ai.ethz.ch/). I am co-supervised by [Barbara Treutlein](https://bsse.ethz.ch/qdb/the-group.html) at ETH Zürich ([Department of Biosystems Science and Engineering](https://bsse.ethz.ch/)) and [Dana Pe'er](https://www.mskcc.org/research/ski/labs/dana-pe-er) at [MSKCC]([Computational and Systems Biology Program](https://www.mskcc.org/research/ski)). 
 
 In my research, I focus on understanding dynamical biological processes through the lens of single-cell genomics. To this end, I develop computational tools and apply them to solve biological questions that arise in processes including development, regeneration and reprogramming. In my postdoc, I'm particularly interested in studying the development of the human brain in organoid model systems, integrating spatio-temporal data across molecular modalities to understand regulatory relationships.
 
