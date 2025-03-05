@@ -10,6 +10,6 @@ main:
   - name: Talks
     url: event/
     weight: 20
-  - name: Thesis
-    url: thesis
+  - name: Student projects
+    url: student_projects
     weight: 30

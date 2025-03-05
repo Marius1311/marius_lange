@@ -20,4 +20,4 @@ image:
   preview_only: false
   filename: featured.jpeg
 ---
-On October 24th, I successfully defended my PhD thesis with summa cum laude. My committee consisted of Fabian Theis, Dana Pe'er and Samantha Morris and was chaired by Donna Ankerst. I'm extremely thankful for all the support I received throughout my PhD from my supervisor Fabian, the office at the institute, my colleagues, collaboration partners, friends, family and mentors. You can find my thesis here: [Thesis]({{< ref "/content/thesis.md" >}} "My PhD thesis").
+On October 24th, I successfully defended my PhD thesis with summa cum laude. My committee consisted of Fabian Theis, Dana Pe'er and Samantha Morris and was chaired by Donna Ankerst. I'm extremely thankful for all the support I received throughout my PhD from my supervisor Fabian, the office at the institute, my colleagues, collaboration partners, friends, family and mentors. You can find my thesis here: https://mediatum.ub.tum.de/1656496. 
