@@ -1,5 +1,5 @@
 ---
-title: "Introducing CellAnnotator: AI-Powered Cell Type Annotation for scRNA-seq Data"
+title: "CellAnnotator: AI-Powered Cell Type Annotation for scRNA-seq Data"
 subtitle: "A new tool for automatic annotation of single-cell RNA sequencing data using OpenAI models"
 date: 2025-04-20T12:00:00Z
 summary: ""

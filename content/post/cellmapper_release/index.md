@@ -18,15 +18,9 @@ categories:
   - News
   - Software
 projects: []
-image:
-  caption: 
-  focal_point: ""
-  placement: 2
-  preview_only: false
-  filename: featured.png
 ---
 
-Hey everyone! 👋 I'm excited to announce the release of [CellMapper](https://github.com/quadbio/cellmapper), a new tool I've developed for efficient mapping between cell datasets. Whether you're working with spatial data, multi-modal integration, or massive reference atlases, CellMapper has got you covered!
+Hey everyone! 👋 I'm excited to announce the release of [CellMapper](https://github.com/quadbio/cellmapper), a new tool I've developed for efficient mapping between query and reference datasets. Whether you're working with spatial data, multi-modal integration, or massive reference atlases, CellMapper has got you covered! All you need is a joint latent space for your datasets. 
 
 ## What's CellMapper? 🤔
 
@@ -85,7 +79,7 @@ That's it! This will transfer cell types, UMAP embeddings, and expression values
 
 ## Standing on the Shoulders of Giants 👨‍🔬
 
-The k-NN transfer approach isn't novel — it's a common technique used throughout the field. CellMapper is heavily inspired by:
+The k-NN transfer approach isn't novel — it's a common technique used throughout the field. Among others, CellMapper is heavily inspired by:
 - Scanpy's [ingest](https://scanpy.readthedocs.io/en/stable/generated/scanpy.tl.ingest.html) function
 - The [HNOCA-tools](https://devsystemslab.github.io/HNOCA-tools/) package
 
