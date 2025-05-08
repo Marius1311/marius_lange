@@ -1,13 +1,13 @@
 ---
 title: "Introducing CellAnnotator: AI-Powered Cell Type Annotation for scRNA-seq Data"
 subtitle: "A new tool for automatic annotation of single-cell RNA sequencing data using OpenAI models"
-date: 2025-05-08T12:00:00Z
+date: 2025-04-20T12:00:00Z
 summary: ""
 draft: false
 featured: true
 authors:
   - admin
-lastmod: 2025-05-08T12:00:00Z
+lastmod: 2025-04-20T12:00:00Z
 tags:
   - scRNA-seq
   - cell annotation
