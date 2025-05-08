@@ -13,6 +13,9 @@ main:
   - name: Publications
     url: publications
     weight: 30
+  - name: Software
+    url: software
+    weight: 40
   - name: Student projects
     url: student_projects
-    weight: 40
+    weight: 50
