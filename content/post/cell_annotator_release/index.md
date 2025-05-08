@@ -21,7 +21,7 @@ categories:
 projects: []
 ---
 
-I'm excited to announce the release of [CellAnnotator](https://github.com/quadbio/cell-annotator), a new tool I've developed as part of the [scverse ecosystem](https://scverse.org/packages/#ecosystem) that leverages OpenAI models to automate cell type annotation in scRNA-seq data.
+Tired of manually annotating cell types in your single-cell datasets? I'm thrilled to announce [CellAnnotator](https://github.com/quadbio/cell-annotator), a new tool that harnesses the power of large language models to automate one of the most time-consuming steps in scRNA-seq analysis. As part of the [scverse ecosystem](https://scverse.org/packages/#ecosystem), CellAnnotator interprets marker gene patterns to generate consistent cell type annotations with less human intervention. This works well for many systems where vast prior knowledge is available, but has limitations in less well studied systems. Also, you'll still need to validate and fine-tune your annotations. So use with care. 
 
 ## What is CellAnnotator?
 

@@ -20,7 +20,7 @@ categories:
 projects: []
 ---
 
-Hey everyone! 👋 I'm excited to announce the release of [CellMapper](https://github.com/quadbio/cellmapper), a new tool I've developed for efficient mapping between query and reference datasets. Whether you're working with spatial data, multi-modal integration, or massive reference atlases, CellMapper has got you covered! All you need is a joint latent space for your datasets. 
+Hey everyone! 👋 Bridging the gap between different single-cell datasets has always been challenging. Today I'm excited to unveil [CellMapper](https://github.com/quadbio/cellmapper), a high-performance tool that makes this a bit easier through optimized k-NN transfer. Whether you're mapping cell types from dissociated to spatial data, transferring embeddings between datasets, or identifying cellular niches, CellMapper makes these complex tasks both simple and blazingly fast. All you need it a joint embedding for your data - CellMapper is not a data integration tool. 
 
 ## What's CellMapper? 🤔
 
