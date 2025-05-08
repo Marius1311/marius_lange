@@ -20,7 +20,7 @@ categories:
 projects: []
 ---
 
-Hey everyone! 👋 Bridging the gap between different single-cell datasets has always been challenging. Today I'm excited to unveil [CellMapper](https://github.com/quadbio/cellmapper), a high-performance tool that makes this a bit easier through optimized k-NN transfer. Whether you're mapping cell types from dissociated to spatial data, transferring embeddings between datasets, or identifying cellular niches, CellMapper makes these complex tasks both simple and blazingly fast. All you need it a joint embedding for your data - CellMapper is not a data integration tool. 
+Hey everyone! 👋 Bridging the gap between different single-cell datasets has always been challenging. Today I'm excited to unveil [CellMapper](https://github.com/quadbio/cellmapper), a high-performance tool that makes this a bit easier through optimized k-NN transfer. Whether you're mapping cell types from dissociated to spatial data, transferring embeddings between datasets, or identifying cellular niches, CellMapper makes these complex tasks both simple and blazingly fast. All you need it a joint embedding for your data, which you can get with methods like scVI, scArches, GLUE, scANVI, ENVI, MIDAS and many more, depending on the type of mapping problem. 
 
 ## What's CellMapper? 🤔
 
