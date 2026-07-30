@@ -7,9 +7,6 @@ main:
   - name: Posts
     url: post/
     weight: 10
-  - name: Talks
-    url: event/
-    weight: 20
   - name: Publications
     url: publications
     weight: 30

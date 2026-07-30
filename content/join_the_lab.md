@@ -37,7 +37,7 @@ If you are considering a fellowship (EMBO, HFSP, Marie Skłodowska-Curie, SNSF, 
 
 I supervise Master's theses of **at least six months**.
 
-Projects run in two directions. The first continues my current work: cellular representations and cell–cell communication in spatial genomics data, with a focus on organoids and early human brain development. The second grows as the lab moves to Basel — primary pediatric samples and questions in child health, with clinical collaborators close by. Both mix data analysis, mathematical modeling, machine learning, and biological interpretation — and sometimes discovery 🚀.
+Projects run in two directions. The first continues my current work: cellular representations and cell–cell communication in spatial genomics data, with a focus on organoids and early human brain development. The second grows with the lab — primary pediatric samples and questions in child health, with clinical collaborators close by. Both mix data analysis, mathematical modeling, machine learning, and biological interpretation — and sometimes discovery 🚀.
 
 ## What I look for
 
