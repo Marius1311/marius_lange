@@ -1,6 +1,6 @@
 ---
 title: Marius Lange
-role: Incoming Assistant Professor, University of Basel
+role: Incoming Faculty (University of Basel)
 avatar_filename: avatar.jpg
 bio: "Computational biology of human development. Incoming Assistant Professor at the University of Basel. "
 interests: [Generative modeling, Single-cell and spatial genomics, Organoids, Human development & disease, Developmental medicine & child health]
@@ -40,7 +40,7 @@ education:
       institution: University of Basel (DBM & BRCCH)
       year: from 2027
     - course: Postdoc in Computational Biology
-      institution: ETH Zürich
+      institution: ETH Zürich & MSKCC, New York
       year: 2023–2026
     - course: PhD in Computational Biology
       institution: Technical University of Munich

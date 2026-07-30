@@ -15,7 +15,11 @@ header:
 ---
 In January 2027, I will start the Lange Lab at the [Department of Biomedicine](https://biomedizin.unibas.ch/) (DBM) and the [Basel Research Centre for Child Health](https://brc.ch/) (BRCCH) of the [University of Basel](https://www.unibas.ch/en.html) 🇨🇭🏔️, as Tenure-Track Assistant Professor in Systems Developmental Medicine.
 
-We will build computational methods to understand how human tissues and organs mature, from early development through childhood. That means integrating single-cell, spatial, and temporal molecular data into models that describe what healthy maturation looks like — and that can flag where a tissue departs from it. Methodologically, we work with probabilistic models, optimal transport, variational autoencoders, and vision transformers; biologically, we work with organoid model systems and primary human tissue 🧠.
+We will build computational methods to understand how human tissues and organs mature, from early development through childhood. That means integrating single-cell, spatial, and imaging data into models that describe what healthy maturation looks like — and that can flag where a tissue departs from it.
+
+Methodologically, we sit close to the current frontier of generative modeling: flow matching and diffusion models, variational autoencoders, Wasserstein gradient flows and optimal transport, vision transformers and other large-scale representation learners. Biologically, we work with organoid model systems and primary human tissue 🧠. The open questions are the interesting kind — what *should* a generative model of a developing tissue look like, how do you make it respect the fact that development is a process rather than a snapshot, and how do you validate one against a system you can only observe by destroying it?
+
+If you want to do serious machine learning on problems where the modeling choices actually matter — and where getting them right eventually shows up in a clinic — this is a good place to do it.
 
 **I am recruiting now for positions starting in 2027.** Applications are considered on a rolling basis, and there is no deadline.
 
@@ -31,9 +35,9 @@ If you are considering a fellowship (EMBO, HFSP, Marie Skłodowska-Curie, SNSF, 
 
 ## MSc thesis projects 📓
 
-I supervise Master's theses of **at least six months**. Shorter internships are not something I offer — below that duration it is hard to get past setup and into actual science, which is unfair to both of us.
+I supervise Master's theses of **at least six months**.
 
-Projects typically explore cellular representations or cell–cell communication in spatial genomics data, with a focus on organoids and early human brain development. They mix data analysis, mathematical modeling, machine learning, and biological interpretation — and sometimes discovery 🚀.
+Projects run in two directions. The first continues my current work: cellular representations and cell–cell communication in spatial genomics data, with a focus on organoids and early human brain development. The second grows as the lab moves to Basel — primary pediatric samples and questions in child health, with clinical collaborators close by. Both mix data analysis, mathematical modeling, machine learning, and biological interpretation — and sometimes discovery 🚀.
 
 ## What I look for
 
@@ -42,8 +46,9 @@ Less about how much code you can produce — models and tooling handle a growing
 - **Theoretical grip on the models you use.** You can say what a model assumes, where those assumptions break, and why the result is or isn't trustworthy. Being able to call a method is not the same as understanding it.
 - **Biological understanding**, or a serious appetite for it, particularly in development and regeneration. You should want to know what the answer means, not just whether the loss went down.
 - **Practical research experience.** Evidence that you have carried a project through messy, real data to a conclusion — a thesis, a paper, a preprint, a tool people use.
+- **Fluency in the modern stack.** You should be genuinely productive in **JAX or PyTorch** — of everything on this list, that is the one I would find hardest to work around. Knowing your way around the surrounding ecosystem is a real plus: Hugging Face, Optuna, Weights & Biases, and the [scverse](https://scverse.org/) tools.
 
-Python is our working language and you should be comfortable in it, but treat that as the floor rather than the qualification. Backgrounds vary: physics, mathematics, computer science, statistics, bioinformatics, and computational or systems biology all work. You do not need to arrive with all of the above — quantitative applicants without much biology, and biologists with genuine quantitative depth, are both welcome.
+Python is our working language and you should be comfortable in it, but treat that as the floor rather than the qualification. Backgrounds vary: physics, mathematics, computer science, statistics, bioinformatics, and computational or systems biology all work. You do not need to arrive with all of the above — strong ML/AI people with some exposure to biology or single-cell data are exactly who I hope to hear from, and biologists with genuine quantitative depth are equally welcome.
 
 ## How to apply ✉️
 
