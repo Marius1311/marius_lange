@@ -40,8 +40,16 @@
   to = "/"
   status = 301
 
-# Backstop for the join_the_lab alias; Hugo also emits an alias page.
+# Hugo emits an alias page here, but that is a meta-refresh served as 200.
+# `force` puts the real 301 back, matching what the site served before.
+[[redirects]]
+  from = "/student_projects"
+  to = "/join_the_lab/"
+  status = 301
+  force = true
+
 [[redirects]]
   from = "/student_projects/*"
   to = "/join_the_lab/"
   status = 301
+  force = true
