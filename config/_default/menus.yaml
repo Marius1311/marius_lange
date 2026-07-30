@@ -16,6 +16,6 @@ main:
   - name: Software
     url: software
     weight: 40
-  - name: Student projects
-    url: student_projects
+  - name: Join the Lab
+    url: join_the_lab
     weight: 50
