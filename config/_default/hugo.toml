@@ -1,0 +1,57 @@
+# Core Hugo settings. Theme options live in params.toml; the site title,
+# author profile and copyright live in languages.en.toml (Blowfish convention).
+
+baseURL = 'https://mariuslange.com/'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+hasCJKLanguage = false
+removePathAccents = true
+
+enableEmoji = true
+enableRobotsTXT = true
+# Tool names are stylised lowercase (moscot, moslin, cell-annotator); Hugo would
+# otherwise render taxonomy terms title-cased.
+capitalizeListTitles = false
+enableGitInfo = false
+summaryLength = 30
+
+buildDrafts = false
+buildFuture = false
+
+# Notebooks and R sources may sit alongside content but are not pages.
+ignoreFiles = ['\.ipynb$', '.ipynb_checkpoints$', '\.Rmd$', '\.Rmarkdown$', '_cache$']
+
+[pagination]
+  pagerSize = 10
+
+# Preserves the /tag/… and /category/… URLs the live site already publishes.
+[permalinks]
+  tags = '/tag/:slug/'
+  categories = '/category/:slug/'
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+# JSON feeds Blowfish's client-side search index.
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[imaging]
+  resampleFilter = 'lanczos'
+  quality = 75
+  anchor = 'smart'
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = true
+
+  [[related.indices]]
+    name = 'tags'
+    weight = 100
+
+  [[related.indices]]
+    name = 'categories'
+    weight = 70

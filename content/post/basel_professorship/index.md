@@ -1,22 +1,14 @@
 ---
 title: "Starting a lab in Basel 🇨🇭🧬"
-subtitle: "Appointed Tenure-Track Assistant Professor in Systems Developmental Medicine at the University of Basel"
+description: "Appointed Tenure-Track Assistant Professor in Systems Developmental Medicine at the University of Basel"
 date: 2026-07-30T12:00:00Z
-summary: ""
 draft: false
-featured: true
-authors:
-  - admin
-lastmod: 2026-07-30T12:00:00Z
 tags:
-  - news
   - Basel
-  - BRCCH
+  - career
   - developmental medicine
-  - child health
 categories:
   - News
-projects: []
 ---
 
 I'm delighted to share that I have been appointed **Tenure-Track Assistant Professor in Systems Developmental Medicine** at the [University of Basel](https://www.unibas.ch/en.html) 🎉. Starting on 1 January 2027, I'll hold a joint appointment between the [Department of Biomedicine](https://biomedizin.unibas.ch/) (DBM) and the [Basel Research Centre for Child Health](https://brc.ch/) (BRCCH), where this is one of three structural professorships. There are announcements from the [BRCCH](https://brc.ch/marius-lange-appointed-as-brcch-professor-of-systems-developmental-medicine/), the [Department of Biomedicine](https://biomedizin.unibas.ch/en/newsdetails/dr-marius-lange-joins-the-department-of-biomedicine-as-tenure-track-assistant-professor/), and the [University of Basel](https://www.unibas.ch/en/News-Events/News/Uni-Info/Four-new-professors-appointed.html).

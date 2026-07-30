@@ -1,0 +1,29 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Marius Lange"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "Jan 2, 2006"
+  description = "Hi, I am Marius — a computational biologist working on human development. Incoming Assistant Professor of Systems Developmental Medicine at the University of Basel (DBM / BRCCH)."
+  copyright = "© { year } Marius Lange. This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)."
+
+[params.author]
+  name = "Marius Lange"
+  email = "marius.lange.lab@gmail.com"
+  image = "img/avatar.jpg"
+  # Rendered through markdownify inside an <h2>. Keep it on one line so Hugo
+  # does not wrap the result in a <p>.
+  headline = "Incoming Faculty (University of Basel)<br>[Department of Biomedicine & BRCCH, University of Basel (from 2027)](https://biomedizin.unibas.ch/) · [Treutlein Lab, D-BSSE, ETH Zürich](https://bsse.ethz.ch/qdb/the-group.html)"
+  links = [
+    { email = "mailto:marius.lange.lab@gmail.com" },
+    { x-twitter = "https://twitter.com/MariusLange8" },
+    { google-scholar = "https://scholar.google.com/citations?user=QrhWUR4AAAAJ" },
+    { linkedin = "https://www.linkedin.com/in/marius-lange-icb/" },
+    { orcid = "https://orcid.org/0000-0002-4846-1266" },
+    { github = "https://github.com/Marius1311" },
+  ]

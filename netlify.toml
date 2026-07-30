@@ -3,8 +3,14 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.97.3"
-  HUGO_ENABLEGITINFO = "true"
+  # The Noble build image ships no default Hugo, so this is mandatory.
+  # Blowfish requires >= 0.158.0 extended.
+  HUGO_VERSION = "0.164.0"
+  GO_VERSION = "1.23"
+  # Persists the downloaded Hugo module between builds. Hugo infers this on
+  # Netlify anyway, but only when NETLIFY, PULL_REQUEST and DEPLOY_PRIME_URL
+  # are all set — setting it explicitly removes the guesswork.
+  HUGO_CACHEDIR = "/opt/build/cache/hugo_cache"
 
 [context.production.environment]
   HUGO_ENV = "production"
@@ -22,7 +28,20 @@
   to = "/post/"
   status = 301
 
-[[plugins]]
-  package = "netlify-plugin-hugo-cache-resources"
-  [plugins.inputs]
-    debug = true
+# The /about/ page was folded into the homepage. Two rules because the splat
+# does not reliably cover the bare /about.
+[[redirects]]
+  from = "/about"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/about/*"
+  to = "/"
+  status = 301
+
+# Backstop for the join_the_lab alias; Hugo also emits an alias page.
+[[redirects]]
+  from = "/student_projects/*"
+  to = "/join_the_lab/"
+  status = 301

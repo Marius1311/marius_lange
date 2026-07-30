@@ -1,24 +1,14 @@
 ---
-title: moslin preprint out
-subtitle: Mapping lineage-traced cells across time points with moslin
+title: "moslin preprint out"
+description: "Mapping lineage-traced cells across time points with moslin"
 date: 2023-04-17T12:57:18.125Z
-summary: ""
 draft: false
-featured: true
-authors:
-  - admin
-lastmod: 2023-04-17T12:57:18.125Z
 tags:
-  - moslin, lineage-tracing, moscot, mapping, optimal transport, CellRank
+  - moslin
+  - lineage tracing
+  - optimal transport
 categories:
   - News
-projects: []
-image:
-  caption:
-  focal_point: ""
-  placement: 2
-  preview_only: false
-  filename: featured.jpg
 ---
 We've just released moslin, our new computational tool that maps single cells across time points based on lineage and
 gene expression information. To find out more, see the [tweetorial](https://twitter.com/MariusLange8/status/1648002942006337547) or read the full [preprint](https://www.biorxiv.org/content/10.1101/2023.04.14.536867v1) at bioRxiv. If you

@@ -1,23 +1,15 @@
 ---
 title: "🚀 Introducing CellMapper: Lightning-Fast Cell Mapping Across Datasets"
-subtitle: "Transfer labels, embeddings, and expression values between datasets in seconds! ⚡"
+description: "Transfer labels, embeddings, and expression values between datasets in seconds! ⚡"
 date: 2025-05-08T14:00:00Z
-summary: ""
 draft: false
-featured: true
-authors:
-  - admin
-lastmod: 2025-05-08T14:00:00Z
 tags:
+  - CellMapper
   - single-cell
   - spatial
-  - kNN
-  - mapping
-  - bioinformatics
 categories:
   - News
   - Software
-projects: []
 ---
 
 Hey everyone! 👋 Bridging the gap between different single-cell datasets has always been challenging. Today I'm excited to unveil [CellMapper](https://github.com/quadbio/cellmapper), a high-performance tool that makes this a bit easier through optimized k-NN transfer. Whether you're mapping cell types from dissociated to spatial data, transferring embeddings between datasets, or identifying cellular niches, CellMapper makes these complex tasks both simple and blazingly fast. All you need it a joint embedding for your data, which you can get with methods like scVI, scArches, GLUE, scANVI, ENVI, MIDAS and many more, depending on the type of mapping problem. 

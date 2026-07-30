@@ -1,0 +1,20 @@
+/* Loaded automatically by Blowfish after all theme styles. */
+
+/* Blowfish's profile homepage is text-center; a long bio and the Interests /
+   Education lists read badly centred. */
+#main-content > article > section.prose {
+  text-align: start;
+}
+
+/* Was `.avatar { max-width: 225px }` under Wowchemy. Blowfish renders h-36 (144px). */
+#main-content > article > header img {
+  height: 11rem;
+  width: 11rem;
+}
+
+/* Was `.content-card img { max-width: 500px }` — keeps future in-post images from
+   filling the column. No post currently contains an inline image. */
+.article-content img {
+  max-width: 500px;
+  height: auto;
+}

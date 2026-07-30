@@ -1,24 +1,14 @@
 ---
-title: CellRank 2 preprint out
-subtitle: Unified fate mapping in multiview single-cell data
+title: "CellRank 2 preprint out"
+description: "Unified fate mapping in multiview single-cell data"
 date: 2023-09-15T12:57:18.125Z
-summary: ""
 draft: false
-featured: true
-authors:
-  - admin
-lastmod: 2023-09-15T12:57:18.125Z
 tags:
-  - CellRank, fate mapping, cellular dynamics, metabolic labeling
+  - CellRank
+  - fate mapping
+  - single-cell
 categories:
   - News
-projects: []
-image:
-  caption:
-  focal_point: ""
-  placement: 2
-  preview_only: false
-  filename: featured.jpg
 ---
 Happy to share that we released our preprint presenting CellRank 2, a unified framework to study cellular fate decisions. CellRank 2 comes with a modular interface that makes it easy to learn transition probabilities among cells based on various data modalities or views; currently, these include any Pseudotime, developmental potential, real-time information, and metabolic labeling data. In addition, CellRank 2 inhertis all of CellRank 1's functionality to work with RNA velocity. CellRank 2 further accelerates version 1 and scales to millions of cells. Use it to compute initial and terminal states, fate probabilities, putative driver genes, gene expression trends along specific trajectories, and much more. Beyond the functionality we demonstrate in this preprint, CellRank 2 may also be applied to lineage-traced data downstream of [moslin]({{< ref "/post/moslin_biorxiv/index.md" >}} "moslin"), or to spatio-temporal data downstream of [moscot]({{< ref "/post/moscot_biorxiv/index.md" >}} "moscot"). 
 

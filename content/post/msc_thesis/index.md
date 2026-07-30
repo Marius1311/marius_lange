@@ -1,18 +1,14 @@
 ---
-title: MSc thesis project available
-subtitle: MSc thesis on deep representation learning for brain organoids
+title: "MSc thesis project available"
+description: "MSc thesis on deep representation learning for brain organoids"
 date: 2024-02-20T12:57:18.125Z
-summary: ""
 draft: false
-featured: true
-authors:
-  - admin
-lastmod: 2024-02-20T12:57:18.125Z
 tags:
-  - organoids, brain, development, neuroscience, deep learning, variational inference, graph neural networks
+  - organoids
+  - machine learning
+  - teaching
 categories:
   - News
-projects: []
 ---
 Are you an MSc student in Computer Science, Physics, Maths, Bioinformatics, or a related discipline with strong coding/ML skills and an interest in biological questions? This thesis project might be interesting for you!
 
