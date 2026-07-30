@@ -15,6 +15,13 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+# The Talks section was retired; keep old /event/ links from 404ing.
+# Content is still in git history if it ever needs to come back.
+[[redirects]]
+  from = "/event/*"
+  to = "/post/"
+  status = 301
+
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]

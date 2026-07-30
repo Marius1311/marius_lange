@@ -1,0 +1,7 @@
+# Project-level overrides of the theme's English strings.
+# Hugo merges this over the module's own i18n/en.yaml.
+
+# The About widget renders `education.courses` under this heading; the list also
+# carries positions held, so "Education" alone undersells it.
+- id: education
+  translation: Education & Experience
