@@ -1,0 +1,46 @@
+# Only values that differ from Blowfish's own config/_default/params.toml,
+# which Hugo merges in underneath this file.
+
+colorScheme = "fire"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+highlightCurrentMenuArea = true
+
+mainSections = ["post"]
+defaultSocialImage = "img/sharing.png"
+
+[header]
+  layout = "basic"
+
+[footer]
+  showAppearanceSwitcher = true
+
+[homepage]
+  layout = "profile"
+  showRecent = true
+  showRecentItems = 2
+  showMoreLink = true
+  showMoreLinkDest = "/post/"
+
+[article]
+  # Single-author site: the homepage already carries the profile, so the
+  # per-article author card (avatar + full social row) is just repetition.
+  showAuthor = false
+  showTaxonomies = true
+  showRelatedContent = true
+  relatedContentLimit = 3
+  sharingLinks = ["linkedin", "twitter", "bluesky", "email"]
+
+# Blowfish defaults this to ["taxonomy", "term"], which would drop the
+# /tag/… and /category/… pages the live sitemap already lists.
+[sitemap]
+  excludedKinds = []
+
+[social]
+  twitter = "MariusLange8"
+
+[verification]
+  google = "-h1NUjgoB5aeb1G7TlBk8Ukbujo052t0D7ADllqHnco"

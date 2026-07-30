@@ -1,24 +1,14 @@
 ---
-title: moscot preprint out
-subtitle: Mapping cells through time and space with moscot
+title: "moscot preprint out"
+description: "Mapping cells through time and space with moscot"
 date: 2023-05-14T12:57:18.125Z
-summary: ""
 draft: false
-featured: true
-authors:
-  - admin
-lastmod: 2023-05-14T12:57:18.125Z
 tags:
-  - moscot, spatial, spatiotemporal, CellRank, alignment, optimal transport, ott
+  - moscot
+  - optimal transport
+  - spatial
 categories:
   - News
-projects: []
-image:
-  caption:
-  focal_point: ""
-  placement: 2
-  preview_only: false
-  filename: featured.jpg
 ---
 We've just released moscot, our new computational framework that maps single cells across time and space using efficient optimal transport algorithms. Importantly, moscot makes use of multi-modal information consistently across all applications, scales to atlases, and comes with a modular and extensible implementation. To find out more, see the tweetorials [from Dominik](https://twitter.com/Dominik1Klein/status/1657030449053458435) or [me](https://twitter.com/MariusLange8/status/1657046851860721664), or read the full [preprint](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v2) on bioRxiv. Check out the implementation at [moscot-tools.org](https://moscot-tools.org) to try it on your own single-cell or spatial data.
 

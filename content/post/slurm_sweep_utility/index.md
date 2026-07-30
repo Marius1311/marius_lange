@@ -1,23 +1,14 @@
 ---
 title: "slurm_sweep: A Lightweight Utility for Hyperparameter Sweeps on SLURM 🧪🔍"
-subtitle: "Connecting Weights & Biases with SLURM job arrays for easier hyperparameter optimization"
+description: "Connecting Weights & Biases with SLURM job arrays for easier hyperparameter optimization"
 date: 2025-05-01T12:00:00Z
-summary: ""
 draft: false
-featured: false
-authors:
-  - admin
-lastmod: 2025-05-01T12:00:00Z
 tags:
-  - tools
-  - SLURM
-  - hyperparameter optimization
-  - W&B
-  - utility
+  - slurm-sweep
+  - machine learning
 categories:
   - News
   - Software
-projects: []
 ---
 
 For those of you working on SLURM clusters who struggle with running hyperparameter sweeps, I've released a small utility package called [slurm_sweep](https://github.com/quadbio/slurm_sweep) that might save you some time and effort.

@@ -1,24 +1,15 @@
 ---
 title: "AI-Powered Cell Type Annotation for scRNA-seq Data with CellAnnotator"
-subtitle: "A new tool for automatic annotation of single-cell RNA sequencing data using OpenAI models"
+description: "A new tool for automatic annotation of single-cell RNA sequencing data using OpenAI models"
 date: 2025-04-20T12:00:00Z
-summary: ""
 draft: false
-featured: true
-authors:
-  - admin
-lastmod: 2025-04-20T12:00:00Z
 tags:
-  - scRNA-seq
-  - cell annotation
-  - AI
-  - OpenAI
-  - bioinformatics
-  - scverse
+  - cell-annotator
+  - single-cell
+  - machine learning
 categories:
   - News
   - Software
-projects: []
 ---
 
 Tired of manually annotating cell types in your single-cell datasets? I'm thrilled to announce [CellAnnotator](https://github.com/quadbio/cell-annotator), a new tool that harnesses the power of large language models to automate one of the most time-consuming steps in scRNA-seq analysis. As part of the [scverse ecosystem](https://scverse.org/packages/#ecosystem), CellAnnotator interprets marker gene patterns to generate consistent cell type annotations with less human intervention. This works well for many systems where vast prior knowledge is available, but has limitations in less well studied systems. Also, you'll still need to validate and fine-tune your annotations. So use with care. 
