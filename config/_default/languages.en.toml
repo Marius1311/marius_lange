@@ -16,9 +16,10 @@ title = "Marius Lange"
   name = "Marius Lange"
   email = "marius.lange.lab@gmail.com"
   image = "img/avatar.jpg"
-  # Rendered through markdownify inside an <h2>. Keep it on one line so Hugo
-  # does not wrap the result in a <p>.
-  headline = "Incoming Faculty (University of Basel)<br>[Department of Biomedicine & BRCCH, University of Basel (from 2027)](https://biomedizin.unibas.ch/) · [Treutlein Lab, D-BSSE, ETH Zürich](https://bsse.ethz.ch/qdb/the-group.html)"
+  # Rendered through markdownify inside an <h2>. Keep it on one TOML line so Hugo
+  # does not wrap the result in a <p>; the <br> tags do the line breaking, one
+  # per affiliation, as the old theme did.
+  headline = "Incoming Faculty (University of Basel)<br>[Department of Biomedicine & BRCCH, University of Basel (from 2027)](https://biomedizin.unibas.ch/)<br>[Treutlein Lab, D-BSSE, ETH Zürich](https://bsse.ethz.ch/qdb/the-group.html)"
   links = [
     { email = "mailto:marius.lange.lab@gmail.com" },
     { x-twitter = "https://twitter.com/MariusLange8" },

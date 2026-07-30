@@ -2,8 +2,6 @@
 title: Join the Lab
 date: '2026-07-30T00:00:00+01:00'
 draft: false
-aliases:
-  - /student_projects/
 ---
 In January 2027, I will start the Lange Lab at the [Department of Biomedicine](https://biomedizin.unibas.ch/) (DBM) and the [Basel Research Centre for Child Health](https://brc.ch/) (BRCCH) of the [University of Basel](https://www.unibas.ch/en.html) 🇨🇭🏔️, as Tenure-Track Assistant Professor in Systems Developmental Medicine.
 
