@@ -2,7 +2,7 @@
 title: "Marius Lange"
 ---
 
-In January 2027, I will start as Tenure-Track Assistant Professor in Systems Developmental Medicine at the [University of Basel](https://www.unibas.ch/en.html), in a joint appointment between the [Department of Biomedicine](https://biomedizin.unibas.ch/) (DBM) and the [Basel Research Centre for Child Health](https://brc.ch/) (BRCCH). I am [currently recruiting](/join_the_lab/) PhD students and postdocs.
+In January 2027, I will start as Tenure-Track Assistant Professor in Systems Developmental Medicine at the [University of Basel](https://www.unibas.ch/en.html), in a joint appointment between the [Department of Biomedicine](https://biomedizin.unibas.ch/) (DBM) and the [Basel Research Centre for Child Health](https://brc.ch/) (BRCCH). I will announce future calls for positions in my group here.
 
 Until then, I am a postdoctoral researcher in the lab of [Barbara Treutlein](https://bsse.ethz.ch/qdb/the-group.html) at ETH Zürich ([Department of Biosystems Science and Engineering](https://bsse.ethz.ch/)), co-supervised by [Dana Pe'er](https://www.mskcc.org/research/ski/labs/dana-pe-er) at MSKCC ([Computational and Systems Biology Program](https://www.mskcc.org/research/ski)), and an associated researcher at ETH's [AI Center](https://ai.ethz.ch/). 
 
