@@ -2,6 +2,7 @@
 title: Join the Lab
 date: '2026-07-30T00:00:00+01:00'
 # Hidden while no call is open; set back to false to republish.
+# MSc section removed until the first PhD student joins; its text is in c57e551.
 draft: true
 ---
 In January 2027, I will start the Lange Lab at the [Department of Biomedicine](https://biomedizin.unibas.ch/) (DBM) and the [Basel Research Centre for Child Health](https://brc.ch/) (BRCCH) of the [University of Basel](https://www.unibas.ch/en.html) 🇨🇭🏔️, as Tenure-Track Assistant Professor in Systems Developmental Medicine.
@@ -30,18 +31,6 @@ Please apply by emailing **[marius.lange@unibas.ch](mailto:marius.lange@unibas.c
 - a **link to your GitHub profile**,
 - a short paragraph on your research interests and why this lab in particular,
 - contact details for **two referees**.
-
-## MSc thesis projects 📓
-
-I supervise Master's theses of **at least six months**.
-
-Projects run in two directions. The first continues my current work: cellular representations and cell–cell communication in spatial genomics data, with a focus on organoids and early human brain development. The second grows with the lab — primary pediatric samples and questions in child health, with clinical collaborators close by. Both mix data analysis, mathematical modeling, machine learning, and biological interpretation — and sometimes discovery 🚀.
-
-Please apply by emailing **[marius.lange@unibas.ch](mailto:marius.lange@unibas.ch)** with:
-
-- your **CV**,
-- a **link to your GitHub profile**,
-- a short paragraph on your research interests and why this lab in particular,
 
 ## What I look for
 

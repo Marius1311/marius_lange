@@ -10,6 +10,8 @@ tags:
 categories:
   - News
 ---
+*Update (October 2026): this project is no longer available.*
+
 Are you an MSc student in Computer Science, Physics, Maths, Bioinformatics, or a related discipline with strong coding/ML skills and an interest in biological questions? This thesis project might be interesting for you!
 
 Contact Information:
