@@ -33,6 +33,6 @@ And thank you to everyone who has used, broken, and improved [CellRank](https://
 
 ## Come build it with me 🚀
 
-*Update (October 2026): I am not recruiting at the moment.*
+*Update (October 2026): the current PhD call has closed. Keep an eye out for future calls, which I'll announce here.*
 
 I am recruiting **PhD students and postdocs** now, for positions starting in 2027, and I supervise Master's theses.
