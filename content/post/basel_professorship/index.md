@@ -33,4 +33,6 @@ And thank you to everyone who has used, broken, and improved [CellRank](https://
 
 ## Come build it with me 🚀
 
-I am recruiting **PhD students and postdocs** now, for positions starting in 2027, and I supervise Master's theses. If you like thinking carefully about models and care about what they say biologically, have a look at the [Join the Lab](/join_the_lab/) page for what the positions involve and how to apply.
+*Update (October 2026): I am not recruiting at the moment.*
+
+I am recruiting **PhD students and postdocs** now, for positions starting in 2027, and I supervise Master's theses.

@@ -13,7 +13,8 @@
   pageRef = "software"
   weight = 40
 
-[[main]]
-  name = "Join the Lab"
-  pageRef = "join_the_lab"
-  weight = 50
+# Hidden while no call is open; restore together with join_the_lab.md.
+# [[main]]
+#   name = "Join the Lab"
+#   pageRef = "join_the_lab"
+#   weight = 50

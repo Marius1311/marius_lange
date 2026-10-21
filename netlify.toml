@@ -40,3 +40,15 @@
   to = "/"
   status = 301
 
+# Join the Lab is hidden while no call is open. 302, not 301, so browsers and
+# search engines don't cache it; remove both rules when the page comes back.
+[[redirects]]
+  from = "/join_the_lab"
+  to = "/"
+  status = 302
+
+[[redirects]]
+  from = "/join_the_lab/*"
+  to = "/"
+  status = 302
+
